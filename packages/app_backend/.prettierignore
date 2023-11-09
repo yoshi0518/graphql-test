@@ -1,0 +1,13 @@
+node_modules
+.vscode/*
+.next
+.editorconfig
+.gitignore
+.eslintignore
+.prettierignore
+*-lock.yaml
+*.yml
+logs
+*.log
+*.local
+.DS_Store
