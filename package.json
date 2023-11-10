@@ -5,7 +5,9 @@
   "main": "index.js",
   "scripts": {
     "lint": "pnpm -F \"app_*\" lint",
-    "fmt": "pnpm -F \"app_*\" fmt"
+    "fmt": "pnpm -F \"app_*\" fmt",
+    "app_backend": "pnpm -F \"app_backend\"",
+    "app_frontend": "pnpm -F \"app_frontend\""
   },
   "keywords": [],
   "author": "yoshi0518",
